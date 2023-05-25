@@ -4,15 +4,15 @@ print('Adding all the data processing code related fraud detection')
 a=5
 b=7
 
-def sum(a,b):
+def add(a,b):
     c=a+b
     return c
-
-print("sum function")
+add(8,5)
+print("sum function", add)
 
 def multiplication(a,b):
     d=a*b
-    return b
+    return d
 
 print("multiplication function")
 
